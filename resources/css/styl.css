@@ -273,6 +273,9 @@ a:hover
     float:right;
     padding:18px;
 }
+ul a{
+  padding:4px;
+}
 ul a:hover{
     box-shadow: 0 4px 8px 0 #fffffb;
 }
